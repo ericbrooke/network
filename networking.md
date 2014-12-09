@@ -132,7 +132,7 @@ cat /etc/resolv.conf
 #
 domain Terram
 nameserver 192.168.1.1
-``
+```
 ###Name server lookup
 ```
 nslookup www.professionalyou.com
